@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Servecore
 
 Welcome to my GitHub profile!  
-I’m a developer who enjoys building clean, scalable, and useful applications — especially in backend & fullstack development.
+I’m a developer who enjoys building clean, scalable, and secure applications — with a strong focus on backend & fullstack development.
 
 ---
 
@@ -9,6 +9,7 @@ I’m a developer who enjoys building clean, scalable, and useful applications �
 
 - 💡 Passionate about problem solving and clean code
 - 🛠️ Focused on backend & fullstack web development
+- 🔐 Strong interest in authentication, authorization, and system architecture
 - 🌱 Always learning new tools, frameworks, and best practices
 - 🤝 Open to collaboration and open-source projects
 
@@ -37,15 +38,35 @@ I’m a developer who enjoys building clean, scalable, and useful applications �
 
 ---
 
+## 🏗️ System Architecture & Concepts
+
+- 🔐 **Authentication & Authorization**
+  - OAuth 2.0 (Authorization Code, Token-based flow)
+  - JWT (Access & Refresh Token)
+  - Role-Based Access Control (RBAC)
+
+- 🧩 **Architecture Patterns**
+  - Multi-tenant architecture (tenant isolation & shared resources)
+  - RESTful API design
+  - MVC & Service Layer pattern
+
+- ⚙️ **Security & Performance**
+  - Secure API authentication & authorization
+  - Rate limiting & request validation
+  - Database indexing & query optimization
+
+---
+
 ## 📌 Featured Projects
 
-> Some projects I’ve worked on or currently maintaining:
+- 🚀 **SaaS Platform**  
+  Multi-tenant SaaS application with RBAC, OAuth2 authentication, JWT-based API security, and scalable service-oriented architecture.
 
-- 🚀 **Project One** — Short description of what this project does  
-- 🛠️ **Project Two** — Short description of what this project does  
-- 🌱 **Project Three** — Short description of what this project does  
+- 🧑‍💼 **HRIS (Human Resource Information System)**  
+  Enterprise HR system featuring employee management, attendance tracking, payroll integration, role-based permissions, and secure authentication.
 
-*(Update this section with your real repositories)*
+- 🔐 **SSO (Single Sign-On)**  
+  Centralized authentication service using OAuth2 and JWT to enable seamless access across multiple applications with a single identity provider.
 
 ---
 
@@ -58,15 +79,14 @@ I’m a developer who enjoys building clean, scalable, and useful applications �
 
 ## 📫 Connect With Me
 
-- 📧 Email: your@email.com
-- 💼 LinkedIn: https://linkedin.com/in/yourname
-- 🌐 Website / Portfolio: https://yourwebsite.com
+- 📧 Email: secret
+- 💼 LinkedIn: secret
+- 🌐 Website / Portfolio: secret
 
 ---
 
 ### ✨ Fun Fact
 
-> I believe good code is not just working code —  
-> it’s **readable, maintainable, and helpful for others**.
+> I enjoy designing systems where **security, scalability, and simplicity** work together.
 
 Thanks for visiting my profile! 🚀
