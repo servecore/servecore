@@ -20,6 +20,7 @@ Iâ€™m a developer who enjoys building clean, scalable, and secure applications â
 ### Backend & Language
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![NodeJS](https://img.shields.io/npm/v/npm.svg?logo=nodedotjs)
 
 ### Frontend
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
